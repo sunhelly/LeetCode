@@ -18,6 +18,6 @@ public class QuickSum {
     }
     return ans>>1;
   }
-  
+
 
 }
